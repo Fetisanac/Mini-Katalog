@@ -28,11 +28,16 @@ Bağlı bir emülatör veya fiziksel cihaz üzerinde uygulamayı başlatmak içi
 flutter run
 
 Aşağıda projenin çalışan haline ait ekran görüntüleri bulunmaktadır:
+<img width="477" height="850" alt="Ekran görüntüsü 2026-06-22 231127" src="https://github.com/user-attachments/assets/76380bdc-e623-48f0-aab5-025f55fb4535" />
+<img width="384" height="837" alt="Ekran görüntüsü 2026-06-22 231138" src="https://github.com/user-attachments/assets/e0c02ce7-50dc-4ab4-bc8c-b9d0c35ab9f9" />
+<img width="436" height="868" alt="Ekran görüntüsü 2026-06-22 231145" src="https://github.com/user-attachments/assets/e5f4c00d-e58a-401f-b042-85bea7665309" />
+<img width="395" height="836" alt="Ekran görüntüsü 2026-06-22 231158" src="https://github.com/user-attachments/assets/82d7e957-b681-4711-b9df-f5974d1818ba" />
 
 <img width="424" height="890" alt="Ekran görüntüsü 2026-06-22 231208" src="https://github.com/user-attachments/assets/309f68a1-d6be-4722-b010-4baac51d23cb" />
-<img width="395" height="836" alt="Ekran görüntüsü 2026-06-22 231158" src="https://github.com/user-attachments/assets/82d7e957-b681-4711-b9df-f5974d1818ba" />
-<img width="436" height="868" alt="Ekran görüntüsü 2026-06-22 231145" src="https://github.com/user-attachments/assets/e5f4c00d-e58a-401f-b042-85bea7665309" />
-<img width="384" height="837" alt="Ekran görüntüsü 2026-06-22 231138" src="https://github.com/user-attachments/assets/e0c02ce7-50dc-4ab4-bc8c-b9d0c35ab9f9" />
-<img width="477" height="850" alt="Ekran görüntüsü 2026-06-22 231127" src="https://github.com/user-attachments/assets/76380bdc-e623-48f0-aab5-025f55fb4535" />
+
+
+
+
+
 
 
