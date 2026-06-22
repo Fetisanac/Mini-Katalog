@@ -28,6 +28,10 @@ Bağlı bir emülatör veya fiziksel cihaz üzerinde uygulamayı başlatmak içi
 flutter run
 
 Aşağıda projenin çalışan haline ait ekran görüntüleri bulunmaktadır:
+
+
+
+
 <img width="477" height="850" alt="Ekran görüntüsü 2026-06-22 231127" src="https://github.com/user-attachments/assets/76380bdc-e623-48f0-aab5-025f55fb4535" />
 <img width="384" height="837" alt="Ekran görüntüsü 2026-06-22 231138" src="https://github.com/user-attachments/assets/e0c02ce7-50dc-4ab4-bc8c-b9d0c35ab9f9" />
 <img width="436" height="868" alt="Ekran görüntüsü 2026-06-22 231145" src="https://github.com/user-attachments/assets/e5f4c00d-e58a-401f-b042-85bea7665309" />
